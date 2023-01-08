@@ -4,6 +4,7 @@
   padding: 0;
 }
 
+
 header {
   height: 50px;
   background-color: #ff9a4b;
@@ -69,18 +70,18 @@ footer {
   body {
     height: 100%;
   }
-  
+
   main {
     width: 100%;
     display: inline-block;
     margin: 50px auto;
   }
-  
+
   .step-box {
     width: 90%;
     margin: 0 auto 20px auto;
   }
-  
+
   .step-box:last-child {
     margin-bottom: 0;
     margin-right: auto;
